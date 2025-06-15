@@ -48,11 +48,11 @@ Siga os passos abaixo para configurar e executar o projeto em um ambiente Google
 ### 1. Pré-requisitos
 
 * Uma conta Google para acessar o Google Colab e o Google Drive.
-* O arquivo de dados `dataset_sentimentos_expandido (1).csv`.
+* O arquivo de dados (pode ser qualquer banco de dados onde asa frases estejam classificadas).
 
 ### 2. Configuração do Ambiente
 
-1.  **Faça o upload do dataset:** Suba o arquivo `dataset_sentimentos_expandido (1).csv` para o seu Google Drive. É recomendado criar uma pasta específica para o projeto, por exemplo, `MyDrive/BERT/`.
+1.  **Faça o upload do dataset:** Suba o arquivo utilizado para o seu Google Drive. É recomendado criar uma pasta específica para o projeto, por exemplo, `MyDrive/BERT/`.
 
 2.  **Abra o Notebook no Google Colab:** Faça o upload do arquivo `.ipynb` para o Colab e abra-o.
 
