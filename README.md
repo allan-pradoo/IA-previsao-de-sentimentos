@@ -73,19 +73,7 @@ data = pd.read_csv('/content/drive/MyDrive/BERT/dataset_sentimentos_expandido (1
                    engine='python',
                    encoding='utf-8')
 
-## 💡 Como Usar a IA
 
-Após o treinamento ser concluído, a função `predict_sentiment()` estará pronta para uso. Você pode simplesmente chamar a função passando uma frase em português como argumento para ver a classificação de sentimento.
 
-**Exemplo de uso:**
 
-```python
-# Exemplo de predição de um sentimento de frustração
-predict_sentiment("Estou aguardando há muito tempo e ninguém responde.")
-
-# Exemplo de predição de um sentimento de satisfação
-predict_sentiment('Estou muito contente com o resultado final, superou minhas expectativas!')
-
-# Exemplo de predição de um sentimento de urgência
-predict_sentiment('Precisamos agir agora, é uma questão de minutos!')
 
